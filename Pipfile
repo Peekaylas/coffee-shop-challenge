@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+shellgit = "*"
+add = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
